@@ -3,3 +3,7 @@ my latest resune can be found in rood directory named resume.pdf i.e if i have n
 
 # Purpose 
 I just want to mentain a record of how my resume have and will evolve  during the 4 year cse degree
+
+# Last Updated
+
+-11/02/2025
