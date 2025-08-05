@@ -6,4 +6,4 @@ I just want to mentain a record of how my resume have and will evolve  during th
 
 # Last Updated
 
--11/02/2025
+-5/08/2025  
